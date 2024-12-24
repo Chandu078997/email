@@ -18,7 +18,7 @@ html_content = f"""
     <p>This page contains a button that links to a separate page showing the time when it was generated.</p>
     
     <!-- Button that links to time_page.html -->
-    <button onclick="window.location.href='time_page.html'">Go to Time Page</button>
+    <button onclick="window.location.href='time_page2.html'">Go to Time Page</button>
     
 </body>
 </html>
